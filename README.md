@@ -1,5 +1,29 @@
-# 💫 About Me:
-👋 Hey, I'm Samaksh  <br><br>I build things for the web ⚡  <br>Turning ideas into real-world projects  <br><br>⚙️ Tech: C++, JS, React, PHP, Node  <br>🚀 Projects: TaskFlow | DevTinder  <br>📚 Learning something new every day  <br><br>Let's connect 🤝
+👋 Hi, I'm Samaksh Garg  
+
+💻 Full Stack Developer | Problem Solver | Tech Enthusiast  
+
+I enjoy building scalable web applications and solving real-world problems through code.  
+I’m passionate about learning new technologies and continuously improving my development skills.
+
+🚀 Currently working on:  
+- TaskFlow – A task management web app  
+- DevTinder – A developer networking platform  
+
+🛠 Tech Stack:  
+- Languages: C++, JavaScript, Python, PHP, Java  
+- Frontend: HTML, CSS, React, Tailwind CSS  
+- Backend: Node.js, Express.js, PHP  
+- Database: MySQL  
+- Tools: Git, GitHub, Chart.js, FullCalendar  
+
+📈 What I focus on:  
+- Writing clean and efficient code  
+- Building user-friendly interfaces  
+- Developing scalable backend systems  
+
+📚 Currently learning:  
+- Advanced Backend Development  
+- System Design basics  
 
 
 ## 🌐 Socials:
