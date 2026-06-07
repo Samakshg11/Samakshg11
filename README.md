@@ -6,7 +6,7 @@ I enjoy building scalable web applications and solving real-world problems throu
 I’m passionate about learning new technologies and continuously improving my development skills.
 
 🚀 Currently working on:  
-- TaskFlow – A task management web app  
+- VitalWatch – A rea-time health monitor
 - DevTinder – A developer networking platform  
 
 🛠 Tech Stack:  
