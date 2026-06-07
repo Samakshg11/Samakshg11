@@ -23,7 +23,8 @@ I’m passionate about learning new technologies and continuously improving my d
 
 📚 Currently learning:  
 - Advanced Backend Development  
-- System Design basics  
+- System Design basics
+- DSA
 
 
 ## 🌐 Socials:
