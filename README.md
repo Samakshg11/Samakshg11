@@ -19,7 +19,8 @@ I’m passionate about learning new technologies and continuously improving my d
 📈 What I focus on:  
 - Writing clean and efficient code  
 - Building user-friendly interfaces  
-- Developing scalable backend systems  
+- Developing scalable backend systems
+- Solving real-time problems
 
 📚 Currently learning:  
 - Advanced Backend Development  
