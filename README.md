@@ -12,7 +12,7 @@ I’m passionate about learning new technologies and continuously improving my d
 🛠 Tech Stack:  
 - Languages: C++, JavaScript, Python, PHP, Java  
 - Frontend: HTML, CSS, React, Tailwind CSS  
-- Backend: Node.js, Express.js, PHP  
+- Backend: Node.js, Express.js, PHP, Laravel
 - Database: MySQL  
 - Tools: Git, GitHub, Chart.js, FullCalendar  
 
