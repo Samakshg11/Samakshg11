@@ -25,6 +25,7 @@ I’m passionate about learning new technologies and continuously improving my d
 - Advanced Backend Development  
 - System Design basics
 - DSA
+- Typescript
 
 
 ## 🌐 Socials:
