@@ -1,4 +1,4 @@
-👋 Hi, I'm Samaksh Garg  
+👋 Hi, I'm Samaksh
 
 💻 Full Stack Developer | Problem Solver | Tech Enthusiast  
 
