@@ -10,7 +10,7 @@ I’m passionate about learning new technologies and continuously improving my d
 - DevTinder – A developer networking platform  
 
 🛠 Tech Stack:  
-- Languages: C++, JavaScript, Python, PHP, Java  
+- Languages: C++, JavaScript, PHP, Java  
 - Frontend: HTML, CSS, React, Tailwind CSS  
 - Backend: Node.js, Express.js, PHP, Laravel
 - Database: MySQL  
