@@ -142,3 +142,26 @@ Real-time automotive marketplace — GPS tracking, Redis caching, 60%+ latency r
 <br/>
 
 <div align="center">
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="#">⬆ Back to Top</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=100&section=footer"/>
+
+**Thanks for visiting — let's build something great.**
+
+</div>
