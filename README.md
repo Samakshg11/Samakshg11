@@ -1,56 +1,144 @@
-<h1 align="center">Hi 👋, I'm Samaksh Garg</h1>
-<h3 align="center">Full Stack Developer | Building production-grade web apps with React, TypeScript, Node.js & PostgreSQL</h3>
+<div align="center">
 
-<p align="center">
-I build scalable, production-deployed applications with real-time architecture and hybrid SQL/NoSQL databases. Passionate about clean code, system design, and solving real engineering problems.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=header"/>
 
----
+<a href="https://github.com/Samakshg11">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Samaksh+Garg;Full+Stack+Developer;Building+with+React+%2B+TypeScript;Node.js+%2B+PostgreSQL;Problem+Solver" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/samakshg11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:samakshgarg2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Samakshg11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Samakshg11&style=for-the-badge&color=0d1117&labelColor=0d1117" alt="profile views"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td>
+
+### 👋 About Me
+
+- 🎓 Computer Science student, building toward Full-Stack Engineering
+- 💻 Hands-on experience with **React, TypeScript, Node.js, Express**
+- 🗄️ Comfortable across **MongoDB and PostgreSQL** — hybrid database architecture
+- 🔧 Deployed production apps on **AWS, Docker, Nginx**
+- 📚 Currently deepening **System Design, Go, Kafka**
+- 🧠 Strong DSA foundation — algorithm-first problem solver
+- 🌱 Open-source learner, always shipping something
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,redux&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,vscode,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 🚀 Featured Projects
 
-- **Vital Watch** — AI-driven health ecosystem with Gemini LLM + RAG, hybrid PostgreSQL/MongoDB storage, real-time biometric streaming (~90% predictive accuracy)
-- **Dev Tinder** — TypeScript-migrated developer networking platform, live at [devtinder.site](https://devtinder.site)
-- **Quick Fix** — Real-time automotive service marketplace with GPS tracking, Redis caching (60%+ latency reduction)
-### 📈 What I focus on
+</div>
 
-- Writing clean, typed, production-ready code  
-- Designing hybrid database architectures (SQL + NoSQL)  
-- Building real-time systems with sub-second latency  
-- Solving real-world problems through full-stack engineering  
+<table align="center">
+<tr>
+<td width="50%">
 
-### 📚 Currently learning
+**[Vital Watch](https://github.com/Samakshg11)**
+AI health ecosystem — Gemini LLM + RAG, hybrid PostgreSQL/MongoDB storage, real-time biometric streaming (~90% predictive accuracy)
 
-- System Design  
-- Go  
-- Kafka  
+`React` `Node.js` `PostgreSQL` `MongoDB` `Socket.io`
 
----
+</td>
+<td width="50%">
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samaksh.____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samakshg11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samakshgarg2005@gmail.com)
+**[Dev Tinder](https://devtinder.site)**
+TypeScript-migrated developer networking platform, live in production on AWS EC2
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+`TypeScript` `React` `Docker` `Nginx`
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+**[Quick Fix](https://github.com/Samakshg11)**
+Real-time automotive marketplace — GPS tracking, Redis caching, 60%+ latency reduction
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+`Socket.io` `Redis` `Leaflet` `JWT`
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Samakshg11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Samakshg11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samakshg11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td>
+<td width="50%">
 
----
+📚 More projects on my [pinned repositories](https://github.com/Samakshg11?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samakshg11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samakshg11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="38%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samakshg11&theme=tokyonight&hide_border=true&background=0d1117" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samakshg11&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Samakshg11/Samakshg11/output/github-contribution-grid-snake-dark.svg)
 
----
+<img src="https://raw.githubusercontent.com/Samakshg11/Samakshg11/output/github-contribution-grid-snake-dark.svg" width="80%"/>
 
-[![](https://visitcount.itsvg.in/api?id=Samakshg11&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly built by Samaksh Garg -->
+<br/>
+
+<div align="center">
+
+### 🎯 Current Focus
+
+| | |
+|---|---|
+| 🔵 Backend Engineering | Node.js, Express, REST APIs |
+| 🟣 Databases | PostgreSQL, MongoDB hybrid architecture |
+| 🟢 System Design | Scalability, caching, distributed systems |
+| 🟠 Languages | Go, advancing DSA |
+
+</div>
+
+<br/>
+
+<div align="center">
