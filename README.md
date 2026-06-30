@@ -7,12 +7,11 @@ I build scalable, production-deployed applications with real-time architecture a
 
 ---
 
-### 🚀 Currently working on
+### 🚀 Featured Projects
 
 - **Vital Watch** — AI-driven health ecosystem with Gemini LLM + RAG, hybrid PostgreSQL/MongoDB storage, real-time biometric streaming (~90% predictive accuracy)
 - **Dev Tinder** — TypeScript-migrated developer networking platform, live at [devtinder.site](https://devtinder.site)
 - **Quick Fix** — Real-time automotive service marketplace with GPS tracking, Redis caching (60%+ latency reduction)
-
 ### 📈 What I focus on
 
 - Writing clean, typed, production-ready code  
