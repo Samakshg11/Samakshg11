@@ -167,7 +167,7 @@ Multi-role platform with real-time GPS tracking and proximity-based mechanic mat
 ![](https://github-readme-stats.vercel.app/api?username=Samakshg11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samakshg11&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samakshg11&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=Samakshg11&theme=tokyonight&hide_border=true)
 
 </div>
 
