@@ -45,7 +45,7 @@ const samaksh = {
 - 🛠️ Comfortable across the full stack — PostgreSQL/MongoDB schemas, React UIs, JWT-secured REST APIs
 - 🚀 Built and deployed three production-grade full-stack applications, one live in production
 - 📈 Strengthening backend architecture, system design, and distributed systems fundamentals
-- 🤝 Open to internships, full-time SDE roles, and collaborative open-source work
+- 🤝 Open to Internships, full-time SDE roles, and collaborative open-source work
 
 <br/>
 
