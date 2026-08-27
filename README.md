@@ -138,7 +138,7 @@ TypeScript-migrated, swipe-based networking platform deployed live in production
 Multi-role platform with real-time GPS tracking and proximity-based mechanic matching.
 
 - Reduced database latency by 60%+ using Redis caching
-- Cut user wait time by 40%+ with Instant Assistance workflow
+- Cut user wait time by 40%+ with Instant Assistance Workflow
 - Real-time chat and live tracking via Leaflet and Socket.io across 100+ users
 
 `React` `Node.js` `MongoDB` `Redis` `Socket.io` `Leaflet`
