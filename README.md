@@ -37,7 +37,7 @@ const samaksh = {
   currentlyBuilding: "Production apps with hybrid SQL/NoSQL architecture",
   currentlyLearning: ["System Design", "Go", "Kafka"],
   funFact: "Migrated a live production app to TypeScript end-to-end",
-  openTo: ["Internships", "Full-Time SDE Roles", "Collaborations"]
+  openTo: ["Internship", "Full-Time SDE Roles", "Collaborations"]
 };
 ```
 
