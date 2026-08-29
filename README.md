@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Mee
 
 ```
 const samaksh = {
