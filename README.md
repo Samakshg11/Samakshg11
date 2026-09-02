@@ -42,7 +42,7 @@ const samaksh = {
 ```
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering** at LPU (CGPA: 7.57)
-- 🛠️ Comfortable across the full stack — PostgreSQL/MongoDB schemas, React UIs, JWT-secured REST APIs
+- 🛠️ Comfortable across the full stack — PostgreSQL/MongoDB Schemas, React UIs, JWT-secured REST APIs
 - 🚀 Built and deployed three production-grade full-stack applications, one live in production
 - 📈 Strengthening backend architecture, system design, and distributed system fundamentals
 - 🤝 Open to Internships, full-time SDE roles, and Collaborative open-source work
