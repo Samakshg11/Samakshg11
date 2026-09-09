@@ -193,7 +193,7 @@ Multi-role platform with real-time GPS tracking and proximity-based mechanic mat
 
 <br/>
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect Together
 
 <div align="center">
 
