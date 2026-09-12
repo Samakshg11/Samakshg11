@@ -187,7 +187,7 @@ Multi-role platform with real-time GPS tracking and proximity-based mechanic mat
 
 | Institution | Degree | Duration | Score |
 |---|---|---|---|
-| Lovely Professional University, Phagwara | B.Tech, Computer Science & Engineering | Aug 2023 – Present | CGPA: 7.50 |
+| Lovely Professional University, Jalandhar | B.Tech, Computer Science & Engineering | Aug 2023 – Present | CGPA: 7.50 |
 | St. Peters School, Kichha | Intermediate | Apr 2021 – Mar 2023 | 73.4% |
 | St. Peters School, Kichha | Matriculation | Apr 2020 – Mar 2021 | 89.8% |
 
