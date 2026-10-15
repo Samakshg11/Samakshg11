@@ -125,7 +125,7 @@ TypeScript-migrated, swipe-based networking platform deployed live in production
 
 `TypeScript` `React` `Node.js` `Docker` `AWS`
 
-[GitHub →](https://github.com/Samakshg11) · [Live Demo →](https://devtinder.site)
+[GitHub →](https://github.com/Samakshg11/devtTnder-main) · [Live Demo →](https://devtinder.site)
 
 </td>
 </tr>
