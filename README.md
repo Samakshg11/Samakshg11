@@ -144,6 +144,7 @@ Multi-role platform with real-time GPS tracking and proximity-based mechanic mat
 `React` `Node.js` `MongoDB` `Redis` `Socket.io` `Leaflet`
 
 [GitHub →](https://github.com/Samakshg11/quickfix-client)
+Live Demo: https://quickfix-client.onrender.com
 
 </td>
 <td width="50%" valign="top">
