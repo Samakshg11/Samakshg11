@@ -109,7 +109,7 @@ Architected a hybrid storage system — PostgreSQL for user records, MongoDB for
 
 `React` `Node.js` `PostgreSQL` `MongoDB` `Gemini AI`
 
-[GitHub →](https://github.com/Samakshg11)
+[GitHub →](https://github.com/Samakshg11/health-monitor)
 
 </td>
 <td width="50%" valign="top">
