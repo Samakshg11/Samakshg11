@@ -33,7 +33,7 @@
 const samaksh = {
   role: "Full-Stack Developer",
   education: "B.Tech CSE @ Lovely Professional University",
-  stack: ["React", "TypeScript", "Node.js", "PostgreSQL", "MongoDB"],
+  stack: ["React", "SvelteKit", "TypeScript", "Node.js", "PostgreSQL", "MongoDB", "Vanilla Framework"],
   currentlyBuilding: "Production apps with hybrid SQL/NoSQL architecture",
   currentlyLearning: ["System Design", "Go", "Kafka"],
   funFact: "Migrated a live production app to TypeScript end-to-end",
@@ -46,6 +46,7 @@ const samaksh = {
 - 🚀 Built and deployed three production-grade full-stack applications, one live in production
 - 📈 Strengthening backend architecture, system design, and distributed system fundamentals
 - 🤝 Open to Internships, full-time SDE roles, and Collaborative open-source work
+🌱 Open source: contributed to Canonical's Vanilla Framework — [PR #5889](https://github.com/canonical/vanilla-framework/pull/5889)
 
 <br/>
 
@@ -95,6 +96,27 @@ const samaksh = {
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Open Source On-Ramp
+**Accessible SvelteKit dashboard for Canonical open source issues**
+
+- Server-rendered SvelteKit + strict TypeScript app styled with Canonical's Vanilla Framework
+- Typed REST API (`/api/issues`) with ETag caching, GitHub Search API data and an offline snapshot fallback
+- Accessibility-first: WCAG 2.1 AA verified with axe-core; filters work without JavaScript
+
+`SvelteKit` `TypeScript` `Vanilla Framework` `REST API` `a11y`
+
+[GitHub →](https://github.com/Samakshg11/oss-on-ramp) · [Live Demo →](https://oss-on-ramp.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+Also contributed to Canonical's Vanilla Framework — fixed stale font-settings docs in [PR #5889](https://github.com/canonical/vanilla-framework/pull/5889) (issue #5375).
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
